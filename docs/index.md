@@ -18,5 +18,10 @@ Ideally I'll start adding my project demo/docs here ¯\\_(ツ)_/¯
 - Hardware compatabilities
   - Cisco UCS VIC 1227 
   - binardat 4x2.5g/2x10g unmanaged switch
+- Routing
+  - bird
+
+
+
 
 > this isi a test
